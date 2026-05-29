@@ -22,7 +22,6 @@
       "enabled": true,
       "commands": [
         "/login chalol78",
-        "/server smp"
       ]
     },
     "auto-auth": {
