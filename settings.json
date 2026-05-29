@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "LobbyBot",
+    "username": "SMPBot",
     "password": "",
     "type": "offline"
   },
@@ -18,6 +18,12 @@
     "z": 0
   },
   "utils": {
+    "join-commands": {
+  "enabled": true,
+  "commands": [
+    "/server smp"
+  ]
+}
     "auto-auth": {
       "enabled": true,
       "password": "chalol78"
