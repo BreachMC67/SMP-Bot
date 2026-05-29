@@ -18,16 +18,10 @@
     "z": 0
   },
   "utils": {
-    "join-commands": {
+   "auto-auth": {
       "enabled": true,
-      "commands": [
-        "/login chalol78",
-        "/server smp"
-      ]
+      "password": "chalol78; /server smp"
     },
-    "auto-auth": {
-      "enabled": false,
-      "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
