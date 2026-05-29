@@ -19,15 +19,16 @@
   },
   "utils": {
     "join-commands": {
-  "enabled": true,
-  "commands": [
-    "/server smp"
-  ]
-},
-    "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "commands": [
+        "/login chalol78",
+        "/server smp"
+      ]
     },
+    "auto-auth": {
+      "enabled": false
+    },"
+    
     "anti-afk": {
       "enabled": true,
       "sneak": true
