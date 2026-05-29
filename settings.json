@@ -23,7 +23,7 @@
   "commands": [
     "/server smp"
   ]
-}
+},
     "auto-auth": {
       "enabled": true,
       "password": "chalol78"
